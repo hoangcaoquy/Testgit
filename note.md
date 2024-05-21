@@ -27,4 +27,12 @@ remote
 - git push
 - git push https://github.com/hoangcaoquy/testgit.git {branchname}
 
-- git remote add {newname} {đường dẫn}
+- git remote add {newname : vd quy} {đường dẫn}
+- git push quy {branchname}
+
+- git clone link 
+- git push đẩy lên
+- git -u link {branchname}  --> dẩy branch lên github
+- git pull  -->kéo về 
+- git checkout -b {branchname} link/{branchname} --> lấy 1 branch từ github về local
+
