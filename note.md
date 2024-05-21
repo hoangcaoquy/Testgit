@@ -27,4 +27,4 @@ remote
 - git push
 - git push https://github.com/hoangcaoquy/testgit.git {branchname}
 
-- 
+- git remote add {newname} {đường dẫn}
