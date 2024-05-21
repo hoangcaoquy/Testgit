@@ -2,6 +2,9 @@
 
 Repository (repo) thư mục dự án
 branch
+conflic
+local
+remote
 
 # commands
  
@@ -19,4 +22,9 @@ branch
 - git merge {branchname}
 - git branch -d {branchname}
 
+- (xung đột 2 cái khi merge  giải quyế xong bấm :q enter)
 
+- git push
+- git push https://github.com/hoangcaoquy/testgit.git {branchname}
+
+- 
