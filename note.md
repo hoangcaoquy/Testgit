@@ -28,3 +28,6 @@ remote
 - git push https://github.com/hoangcaoquy/testgit.git {branchname}
 
 - git remote add {newname} {đường dẫn}
+
+git mergetool dùng trong cmd để xem xung đột
+
